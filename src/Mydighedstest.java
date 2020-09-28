@@ -14,6 +14,6 @@ public class Mydighedstest {
         else {
             System.out.println("Du er ikke myndig");
         }
-
+        //Hej konflikt
     }
 }
